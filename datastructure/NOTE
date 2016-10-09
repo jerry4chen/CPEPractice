@@ -1,0 +1,6 @@
+for(i){
+    for(j<=i)
+    {
+      //if(j==0) break
+    }
+}
